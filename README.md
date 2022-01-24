@@ -45,7 +45,8 @@ NumPy requires `pytest` and `hypothesis`.  Tests can then be run after installat
 
     python -c 'import numpy; numpy.test()'
 
-Code of Conduct
+### Ajay Chauhan
+MyDataSciRepo
 ----------------------
 
 NumPy is a community-driven open source project developed by a diverse group of
